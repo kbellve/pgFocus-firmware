@@ -1,0 +1,4 @@
+
+Version 0.9
+
+	-Fixed race condition on serial line which would cause pgFocus to interpret a command before it received a carriage return
